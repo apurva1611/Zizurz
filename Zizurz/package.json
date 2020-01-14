@@ -1,0 +1,19 @@
+{
+  "name": "essential-organic-materials",
+  "version": "1.2.0",
+  "description": "organic and non organic substances",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "apurva mathur",
+  "license": "ISC"
+}
